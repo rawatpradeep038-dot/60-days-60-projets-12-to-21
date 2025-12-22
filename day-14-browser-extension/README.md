@@ -85,7 +85,10 @@ day-14-browser-extension/
 ├── vite.config.js
 └── README.md
 
-```text
+---
+
+
+
 
 ## 🎯 Usage
 
