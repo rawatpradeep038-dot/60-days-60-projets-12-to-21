@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Hub",
+  "version": "1.0.0",
+  "description": "A beautiful productivity extension with focus timer, tasks, and goals",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Productivity Hub"
+  },
+  "permissions": [
+    "notifications",
+    "storage"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
