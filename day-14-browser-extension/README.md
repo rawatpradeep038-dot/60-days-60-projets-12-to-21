@@ -2,6 +2,9 @@
 
 A beautiful and modern productivity browser extension built with React and Vite. Features focus timer, task management, goals tracking, and customizable settings.
 
+## 🚀 Live Demo
+**[View Live Demo](https://day-14-browser-extension.vercel.app/)**
+
 ## ✨ Features
 
 - **🎯 Focus Timer**: Pomodoro-style timer with customizable durations (15m, 25m, 45m, 60m)
