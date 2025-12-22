@@ -64,7 +64,8 @@ The built files will be in the `dist` folder.
 - **Progress Indicators**: Animated progress bars with shimmer effects
 - **Light Theme**: Clean and modern light color scheme
 
-## 📂 Project Structure
+## Project Structure
+
 day-14-browser-extension/
 ├── public/
 │   └── manifest.json          # Chrome extension manifest
@@ -82,6 +83,7 @@ day-14-browser-extension/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 
 ## 🎯 Usage
 
