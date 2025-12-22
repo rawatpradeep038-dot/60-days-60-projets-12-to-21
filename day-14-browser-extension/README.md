@@ -66,6 +66,7 @@ The built files will be in the `dist` folder.
 
 ## Project Structure
 
+```text
 day-14-browser-extension/
 ├── public/
 │   └── manifest.json          # Chrome extension manifest
@@ -83,6 +84,7 @@ day-14-browser-extension/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 
 
 ## 🎯 Usage
